@@ -16,11 +16,15 @@
 
 ### System Setup
 
-> Checked using `hostnamectl`
+> Checked using `hostnamectl`, `cat /etc/rpi-issue`
+
+Raspberry Pi reference 2024-11-19
+Generated using pi-gen, https://github.com/RPi-Distro/pi-gen, 891df1e21ed2b6099a2e6a13e26c91dea44b34d4, stage4
 
 - OS: Debian GNU/Linux 12 (bookworm)
 - Kernel: Linux 6.12.20+rpt-rpi-2712
 - Architecture: arm64
+- Distro: pi-gen
 
 ## Java
 
